@@ -2,7 +2,13 @@
 
 #HongKong
 #EXTINF:-1 tvg-id="Jade" tvg-logo="https://www.tvb.com/tvb_logo.png" group-title="HongKong",翡翠台
-https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed033b5202b285e.ctv
+http://113.64.147.40:808/hls/67/index.m3u8
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+http://dadiao.akjp.cn:1936/0.m3u8
+http://2022.stream-link.org/live/131217689
+https://pull-l3-cny.douyincdn.com/live/stream-19882782023022818478.m3u8
+http://r.jdshipin.com/62WM7
+
 #EXTINF:-1 tvg-id="Viutv" tvg-logo="https://viu.tv/staticV3/images/nav/icon_viutv.png" group-title="HongKong",ViuTV
 https://stream1.freetv.fun/a63d933d56f703f97a8e8e772f3fe853821b0fb5993e4c79dec30ebf954fb5b4.m3u8
 
