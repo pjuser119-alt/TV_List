@@ -25,12 +25,10 @@ https://locallive.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 
 
 #Taiwan
-#EXTINF:-1 tvg-id="CN-TW" tvg-logo="https://www.tvb.com/tvb_logo.png" group-title="Taiwan",CN卡通頻道
+#EXTINF:-1 tvg-id="CN-TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/CN_%E5%8D%A1%E9%80%9A%E9%A0%BB%E9%81%93.png/1600px-CN_%E5%8D%A1%E9%80%9A%E9%A0%BB%E9%81%93.png" group-title="Taiwan",CN卡通頻道
 https://stream1.freetv.fun/162a6a5fd69223952220efa6c0b5c5b13039f2b1040f9a0612bbce0b2a9685b6.ctv
-#EXTINF:-1 tvg-id="YoYoTV" tvg-logo="https://www.tvb.com/tvb_logo.png" group-title="Taiwan",東森幼幼台
-https://stream1.freetv.fun/84914e537e6047e45fdddf5b029701a35cd3cbae57bf44e50cc248d8275e2bf6.ctv
-#EXTINF:-1 tvg-id="YoYoTV" tvg-logo="https://www.tvb.com/tvb_logo.png" group-title="Taiwan",東森幼幼台
-https://stream1.freetv.fun/84914e537e6047e45fdddf5b029701a35cd3cbae57bf44e50cc248d8275e2bf6.ctv
+#EXTINF:-1 tvg-id="YoYoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3d/25chEBCYoyo2015logo.jpg" group-title="Taiwan",東森幼幼台
+https://stream1.freetv.fun/23b8d662e1a6b297916e9fd1579f5f277e0a955fcbb884124dbdfed6e32ef65b.ctv
 
 
 
