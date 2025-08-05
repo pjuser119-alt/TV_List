@@ -109,11 +109,11 @@ https://us.utako.moe/kbs/index.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",サンテレビ
 https://vn.utako.moe/suntv/index.m3u8
 
-#EXTINF:-1 group-title="CS" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",Disney Channel (VN server)
+#EXTINF:-1 group-title="Japan" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",ディズニー・チャンネル
 https://vn.utako.moe/disneychan/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan (VN server)
+#EXTINF:-1 group-title="Japan" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",カートゥーン ネットワーク
 https://vn.utako.moe/cartoon_network/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="toei_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",Toei Channel (VN server)
+#EXTINF:-1 group-title="Japan" tvg-id="toei_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",東映チャンネル
 https://vn.utako.moe/toei/index.m3u8
 
 
